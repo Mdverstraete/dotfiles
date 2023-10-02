@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = marie-desiree@vestadevelopment.be
+	name = Marie-Désirée Verstraete
